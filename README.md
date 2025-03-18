@@ -4,7 +4,7 @@
 
 ADD BMF
 
-#### [Deployed app]([https://pathfinding-visualizer-nu.vercel.app/](https://pathfinding-visualizer-edit.vercel.app/))
+#### [Deployed app](https://pathfinding-visualizer-edit-git-main-jigsaw254s-projects.vercel.app/)
 
 ### Get Started From Scratch
 
