@@ -54,7 +54,7 @@ export const bmf = (grid: GridType, startTile: TileType, endTile: TileType) => {
         untraversedTiles.push(neighbors[i === 0 ? i : i - 1]); // Add the neighbor to the queue
         traversedTiles.push(prevParents);
       }
-
+        // Check if the distance is less than -1 
       if (prevParents.distance < neighbors[i].distance) {
         neighbors[i].distance = prevParents.distance; // Update the neighbor's distance
         neighbors[i].parent = currentTile; // Set the current tile as its parent (for path reconstruction)
