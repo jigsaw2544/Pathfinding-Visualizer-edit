@@ -2,7 +2,7 @@
 
 ### React + TypeScript + TailwindV4
 
-ADD BMF
+Coming soon: GUI edit mode
 
 #### [Deployed app](https://pathfinding-visualizer-edit-git-main-jigsaw254s-projects.vercel.app/)
 
